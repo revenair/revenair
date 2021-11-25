@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning many things; DSA, Backend, Frontend, etc.
 - 😩 I’m looking for help...
 - 📫 I'm currently working on everything that I can work on.
-
+- ⚡ Fun fact: my profile picture is a representation of my everyday life.
 <!--
 **revenair/revenair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
